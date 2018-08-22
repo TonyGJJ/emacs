@@ -1,0 +1,18 @@
+;; Object semanticdb-project-database-file
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "semanticdb-project-database-file"
+  :tables
+  (list
+    (semanticdb-table "semanticdb-table"
+      :major-mode python-mode
+      :tags 
+        '( ("setuptools" include nil nil [1 44])
+            ("setup" code nil nil [46 222]))          
+      :file "setup.py"
+      :pointmax 223
+      :fsize 222
+      :lastmodtime '(23390 44283 251655 848000)
+      :unmatched-syntax nil))
+  :file "!Users!tony!Desktop!Tony!Python!flask-tutorial!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

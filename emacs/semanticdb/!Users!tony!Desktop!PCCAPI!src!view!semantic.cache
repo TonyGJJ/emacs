@@ -1,0 +1,50 @@
+;; Object semanticdb-project-database-file
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "semanticdb-project-database-file"
+  :tables
+  (list
+    (semanticdb-table "semanticdb-table"
+      :major-mode python-mode
+      :tags 
+        '( ("'''
+Created on 2017年3月18日
+
+@author: aaron
+'''" code nil nil [38 83])
+            ("flask" include nil nil [85 110])
+            ("sqlalchemy" include nil nil [111 144])
+            ("dal.baseUtils" include nil nil [145 180])
+            ("dal.sysapp" include nil nil [181 211])
+            ("model.address_model" include nil nil [212 251])
+            ("utils.send_sms" include nil nil [252 289])
+            ("ConfigParser" include nil nil [290 309])
+            ("config" include nil nil [310 323])
+            ("time" include nil nil [324 335])
+            ("datetime" include nil nil [336 351])
+            ("traceback" include nil nil [352 368])
+            ("errcode" variable nil nil [369 406])
+            ("errcode" code nil nil [407 454])
+            ("baseUtils" variable nil nil [455 478])
+            ("get_list" function nil nil [481 1225])
+            ("getaddresslist" function (:arguments 
+              ( ("mobile_user_id" variable nil (reparse-symbol function_parameters) [1246 1260]))              ) nil [1227 1569])
+            ("save_address" function nil nil [1584 2940])
+            ("saveaddress" function (:arguments 
+              ( ("mobile_user_id" variable nil (reparse-symbol function_parameters) [2958 2972])
+                ("address_id" variable nil (reparse-symbol function_parameters) [2974 2984])
+                ("receiver" variable nil (reparse-symbol function_parameters) [2986 2994])
+                ("mobile" variable nil (reparse-symbol function_parameters) [2996 3002])
+                ("address" variable nil (reparse-symbol function_parameters) [3004 3011])
+                ("region" variable nil (reparse-symbol function_parameters) [3013 3019]))              ) nil [2942 4661])
+            ("del_address" function nil nil [4663 5226])
+            ("deladdress" function (:arguments 
+              ( ("mobile_user_id" variable nil (reparse-symbol function_parameters) [5243 5257])
+                ("address_id" variable nil (reparse-symbol function_parameters) [5259 5269]))              ) nil [5228 5736]))          
+      :file "address_view.py"
+      :pointmax 5736
+      :fsize 5837
+      :lastmodtime '(23400 7586 715566 926000)
+      :unmatched-syntax nil))
+  :file "!Users!tony!Desktop!PCCAPI!src!view!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

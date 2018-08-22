@@ -1,0 +1,1 @@
+("~/.emacs.d/" "~/Desktop/Tony/HTML5/" "~/" "~/Desktop/Tony/Python/python-getting-started/" "~/Desktop/Tony/go/")

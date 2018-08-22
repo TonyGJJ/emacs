@@ -1,0 +1,35 @@
+;; Object semanticdb-project-database-file
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "semanticdb-project-database-file"
+  :tables
+  (list
+    (semanticdb-table "semanticdb-table"
+      :major-mode python-mode
+      :tags 
+        '( ("leancloud" include nil nil [18 46])
+            ("leancloud" include nil nil [47 74])
+            ("leancloud" include nil nil [75 111])
+            ("flask" include nil nil [112 139])
+            ("flask" include nil nil [140 165])
+            ("flask" include nil nil [166 192])
+            ("flask" include nil nil [193 218])
+            ("flask" include nil nil [219 252])
+            ("Todo" type
+               (:superclasses ("Object")
+                :members 
+                  ( ("pass" code nil (reparse-symbol indented_block_body) [279 283]))                  
+                :type "class")
+                nil [255 284])
+            ("todos_view" variable nil nil [286 327])
+            ("" code nil nil [347 351])
+            ("show" function nil nil [352 622])
+            ("" code nil nil [641 663])
+            ("add" function nil nil [664 878]))          
+      :file "todos.py"
+      :pointmax 878
+      :fsize 897
+      :lastmodtime '(23392 8474 384439 258000)
+      :unmatched-syntax '((INDENT_BLOCK 807 . 835) (NEWLINE 806 . 807) (COLON 805 . 806) (TRY 750 . 753) (AS 801 . 803) (INDENT_BLOCK 464 . 568) (NEWLINE 463 . 464) (COLON 462 . 463) (TRY 368 . 371) (AS 458 . 460))))
+  :file "!Users!tony!Desktop!Tony!Python!python-getting-started!tomatotodo!views!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

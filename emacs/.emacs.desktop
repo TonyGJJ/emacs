@@ -1,0 +1,1083 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Fri Aug 17 16:26:03 2018
+;; Desktop file format version 208
+;; Emacs version 26.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (23414 34459 490223 0) (desktop . "208") "tony@bogon" nil nil ((((minibuffer . t) (font-backend mac-ct) (fontsize . 0) (font . "-*-Menlo-normal-normal-normal-*-12-*-*-*-m-0-iso10646-1") (border-width . 0) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#b2b2b2") (background-color . "#292b2e") (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-special-glyphs) (undecorated) (ns-appearance . unbound) (ns-transparent-titlebar . unbound) (z-group) (no-focus-on-map) (no-accept-focus) (menu-bar-lines . 1) (tool-bar-lines . 0) (title) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (scroll-bar-height . 0) (alpha) (fullscreen . maximized) (display-type . color) (background-mode . dark) (cursor-color . "#e3dedd") (environment) (powerline-cache) (modeline . t) (unsplittable) (frameset--id . "4BA9-B2C4-2F08-11C6") (frameset--mini t . t) (display . "bogon") (icon-name) (explicit-name) (tool-bar-position . top) (visibility . t) (height . 61) (width . 203) (left . 0) (top . 23)) ((min-height . 8) (min-width . 20) (min-height-ignore . 6) (min-width-ignore . 16) (min-height-safe . 2) (min-width-safe . 4) (min-pixel-height . 112) (min-pixel-width . 140) (min-pixel-height-ignore . 84) (min-pixel-width-ignore . 112) (min-pixel-height-safe . 28) (min-pixel-width-safe . 28)) vc (pixel-width . 1440) (pixel-height . 841) (total-width . 206) (total-height . 60) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 1440) (pixel-height . 420) (total-width . 206) (total-height . 30) (normal-height . 0.5) (normal-width . 1.0) (buffer "init-local.el" (selected) (hscroll . 0) (fringes 8 8 nil) (margins 4) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 3966) (start . 2969))) (hc (last . t) (pixel-width . 1440) (pixel-height . 421) (total-width . 206) (total-height . 30) (normal-height . 0.5) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 728) (pixel-height . 421) (total-width . 104) (total-height . 30) (normal-height . 1.0) (normal-width . 0.5050100200400802) (buffer "daily_sentence_view.py" (selected . t) (hscroll . 0) (fringes 8 8 nil) (margins 3) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 2286) (start . 1655))) (leaf (last . t) (pixel-width . 712) (pixel-height . 421) (total-width . 102) (total-height . 30) (normal-height . 1.0) (normal-width . 0.49498997995991983) (buffer "daily_sentence_view.py" (selected) (hscroll . 0) (fringes 8 8 nil) (margins 3) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 1689) (start . 1109))))))])
+(setq comint-input-ring nil)
+(setq compile-history '("add"))
+(setq desktop-missing-file-warning nil)
+(setq dired-regexp-history nil)
+(setq extended-command-history nil)
+(setq face-name-history '("hl-line"))
+(setq file-name-history '("~/Desktop/Tony/Python/flask-tutorial/flaskr/__init__.py" "/usr/local/Cellar/python@2/2.7.15_1/Frameworks/Python.framework/Versions/2.7/lib/python2.7/functools.py" "~/Desktop/Tony/HTML5/images/1.jpg" "~/Desktop/Tony/HTML5/refresh.html" "~/Desktop/Tony/HTML5/test.html" "~/Desktop/Tony/HTML5/image4.html" "~/Desktop/Tony/HTML5/image1.html" "~/Desktop/Tony/HTML5/image.html" "~/Desktop/Tony/HTML5/meta.html" "~/Desktop/Tony/Python/flask-tutorial/flaskr/auth.py" "~/.emacs.d/elpa-26.1/flycheck-20180720.247/flycheck.el" "~/.emacs.d/elpa-26.1/yasnippet-snippets-20180714.622/snippets/html-mode/html" "~/Desktop/Tony/HTML5/top.html" "~/Desktop/Tony/HTML5/base.html" "~/Desktop/Tony/HTML5/2-exit.html" "~/Desktop/Tony/HTML5/text/text1.html" "~/.emacs.d/elpa-26.1/yasnippet-snippets-20180714.622/snippets/html-mode/meta.http-equiv" "~/.emacs.d/elpa-26.1/yasnippet-snippets-20180714.622/snippets/html-mode/link.stylesheet-ie" "~/Desktop/Tony/HTML5/margin.html" "~/Desktop/Tony/HTML5/slyl.html" "~/Desktop/Tony/HTML5/third_chapter/text.html" "~/Desktop/Tony/HTML5/four_chapter/list.html" "~/Desktop/Tony/HTML5/four_chapter/list3.html" "~/Desktop/Tony/HTML5/link/link1.html" "~/Desktop/Tony/HTML5/table/table1.html" "~/Desktop/Tony/HTML5/table/table_colspan.html" "~/.emacs.d/lisp/init-clojure.el" "~/Desktop/Tony/HTML5/table/table_rowspan.html" "~/Desktop/Tony/HTML5/table/thead.html" "~/Desktop/Tony/HTML5/table/tbody.html" "~/Desktop/Tony/HTML5/table/nested.html" "~/Desktop/Tony/HTML5/div/div2.html" "/usr/local/lib/python2.7/site-packages/werkzeug/security.py" "~/Desktop/adsfwefasdfwae/app.json" "~/Desktop/adsfwefasdfwae/utils/util.js" "~/Desktop/adsfwefasdfwae/pages/index/index.json" "~/Desktop/Tony/HTML5/2-gd.html" "~/Desktop/Tony/HTML5/OneHTML.html" "~/Desktop/Tony/Python/flask-tutorial/htmlcov/flaskr_auth_py.html" "/usr/local/go/src/fmt/print.go" "~/Desktop/Tony/Python/python-getting-started/tomatotodo/views/todos.py" "~/Desktop/Tony/Python/python-getting-started/.DS_Store" "~/Desktop/Tony/Python/flask-tutorial/flaskr/db.py" "~/Desktop/Tony/HTML5/action/form1.html" "~/Desktop/Tony/Python/python-getting-started/tomatotodo/cloud.py" "~/Desktop/Tony/Python/python-getting-started/tomatotodo/app.py" "~/Desktop/Tony/Python/FirstTestAppDemo/__init__.py" "~/.emacs.d/lisp/init-elpa.el" "~/.emacs.d/lisp/init-lisp.el" "~/Desktop/Tony/HTML5/four_chapter/list2.html" "~/Desktop/Tony/Python/FirstTestAppDemo/app.py" "~/Desktop/Tony/HTML5/div/div1.html" "~/Desktop/adsfwefasdfwae/app.wxss" "~/Desktop/adsfwefasdfwae/pages/index/index.wxml" "~/Desktop/PCCAPI/src/view/coffee_view.py" "~/Desktop/PCCAPI/src/view/address_view.py" "~/Desktop/Tony/go/defer.go" "~/Desktop/Tony/go/array.go" "/Applications/Emacs.app/Contents/Resources/lisp/progmodes/xref.el.gz" "/Applications/Emacs.app/Contents/Resources/lisp/simple.el.gz" "/Applications/Emacs.app/Contents/Resources/lisp/subr.el.gz" "~/.emacs.d/elpa-26.1/elpy-20180707.1413/elpy.el" "~/.emacs.d/init.el" "~/.emacs.d/lisp/init-themes.el" "~/.emacs.d/lisp/init-org.el" "~/.emacs.d/lisp/init-local.el" "~/Desktop/PCCAPI/src/view/daily_sentence_view.py" "~/Desktop/Tony/Python/flask-tutorial/flaskr/__init__.py" "/usr/local/Cellar/python@2/2.7.15_1/Frameworks/Python.framework/Versions/2.7/lib/python2.7/functools.py" "~/Desktop/Tony/HTML5/images/1.jpg" "~/Desktop/Tony/HTML5/refresh.html" "~/Desktop/Tony/HTML5/test.html" "~/Desktop/Tony/HTML5/image4.html" "~/Desktop/Tony/HTML5/image1.html" "~/Desktop/Tony/HTML5/image.html" "~/Desktop/Tony/HTML5/meta.html" "~/Desktop/Tony/Python/flask-tutorial/flaskr/auth.py" "~/.emacs.d/elpa-26.1/flycheck-20180720.247/flycheck.el" "~/.emacs.d/elpa-26.1/yasnippet-snippets-20180714.622/snippets/html-mode/html" "~/Desktop/Tony/HTML5/top.html" "~/Desktop/Tony/HTML5/base.html" "~/Desktop/Tony/HTML5/2-exit.html" "~/Desktop/Tony/HTML5/text/text1.html" "~/.emacs.d/elpa-26.1/yasnippet-snippets-20180714.622/snippets/html-mode/meta.http-equiv" "~/.emacs.d/elpa-26.1/yasnippet-snippets-20180714.622/snippets/html-mode/link.stylesheet-ie" "~/Desktop/Tony/HTML5/margin.html" "~/Desktop/Tony/HTML5/slyl.html" "~/Desktop/Tony/HTML5/third_chapter/text.html" "~/Desktop/Tony/HTML5/four_chapter/list.html" "~/Desktop/Tony/HTML5/four_chapter/list3.html" "~/Desktop/Tony/HTML5/link/link1.html" "~/Desktop/Tony/HTML5/table/table1.html" "~/Desktop/Tony/HTML5/table/table_colspan.html" "~/.emacs.d/lisp/init-clojure.el" "~/Desktop/Tony/HTML5/table/table_rowspan.html" "~/Desktop/Tony/HTML5/table/thead.html" "~/Desktop/Tony/HTML5/table/tbody.html" "~/Desktop/Tony/HTML5/table/nested.html" "~/Desktop/Tony/HTML5/div/div2.html" "/usr/local/lib/python2.7/site-packages/werkzeug/security.py"))
+(setq grep-find-history '("find . -type d \\( -path \\*/.tox -o -path \\*/build -o -path \\*/dist -o -path \\*/.cask -o -path \\*/.ipynb_checkpoints -o -path \\*/SCCS -o -path \\*/RCS -o -path \\*/CVS -o -path \\*/MCVS -o -path \\*/.src -o -path \\*/.svn -o -path \\*/.git -o -path \\*/.hg -o -path \\*/.bzr -o -path \\*/_MTN -o -path \\*/_darcs -o -path \\*/\\{arch\\} \\) -prune -o \\! -type d \\( -name .\\#\\* -o -name \\*.beam -o -name \\*.vee -o -name \\*.jam -o -name \\*.hi -o -name \\*.o -o -name \\*\\~ -o -name \\*.bin -o -name \\*.lbin -o -name \\*.so -o -name \\*.a -o -name \\*.ln -o -name \\*.blg -o -name \\*.bbl -o -name \\*.elc -o -name \\*.lof -o -name \\*.glo -o -name \\*.idx -o -name \\*.lot -o -name \\*.fmt -o -name \\*.tfm -o -name \\*.class -o -name \\*.fas -o -name \\*.lib -o -name \\*.mem -o -name \\*.x86f -o -name \\*.sparcf -o -name \\*.dfsl -o -name \\*.pfsl -o -name \\*.d64fsl -o -name \\*.p64fsl -o -name \\*.lx64fsl -o -name \\*.lx32fsl -o -name \\*.dx64fsl -o -name \\*.dx32fsl -o -name \\*.fx64fsl -o -name \\*.fx32fsl -o -name \\*.sx64fsl -o -name \\*.sx32fsl -o -name \\*.wx64fsl -o -name \\*.wx32fsl -o -name \\*.fasl -o -name \\*.ufsl -o -name \\*.fsl -o -name \\*.dxl -o -name \\*.lo -o -name \\*.la -o -name \\*.gmo -o -name \\*.mo -o -name \\*.toc -o -name \\*.aux -o -name \\*.cp -o -name \\*.fn -o -name \\*.ky -o -name \\*.pg -o -name \\*.tp -o -name \\*.vr -o -name \\*.cps -o -name \\*.fns -o -name \\*.kys -o -name \\*.pgs -o -name \\*.tps -o -name \\*.vrs -o -name \\*.pyc -o -name \\*.pyo \\) -prune -o  -type f \\( -iname \\*.py \\) -exec grep  -nH --null -e \\\\\\<baseUtils\\\\\\> \\{\\} +" "find . -type f -exec grep --color -nH --null -e response_msg \\{\\} +" "find . -type f -exec grep --color -nH --null -e response_obj_msg \\{\\} +" "find . -type f -exec grep --color -nH --null -e reponse_obj_msg \\{\\} +" "find . -type f -exec grep --color -nH --null -e response_msg \\{\\} +" "find . -type f -exec grep --color -nH --null -e response_obj_msg \\{\\} +" "find . -type f -exec grep --color -nH --null -e response_msg \\{\\} +" "find . -type f -exec grep --color -nH --null -e is_update_version \\{\\} +" "find . -type f -exec grep --color -nH --null -e APK_BASE_PATH \\{\\} +" "find . -type f -exec grep --color -nH --null -e init_app \\{\\} +" "find . -type d \\( -path \\*/.tox -o -path \\*/build -o -path \\*/dist -o -path \\*/.cask -o -path \\*/.ipynb_checkpoints -o -path \\*/SCCS -o -path \\*/RCS -o -path \\*/CVS -o -path \\*/MCVS -o -path \\*/.src -o -path \\*/.svn -o -path \\*/.git -o -path \\*/.hg -o -path \\*/.bzr -o -path \\*/_MTN -o -path \\*/_darcs -o -path \\*/\\{arch\\} \\) -prune -o \\! -type d \\( -name .\\#\\* -o -name \\*.beam -o -name \\*.vee -o -name \\*.jam -o -name \\*.hi -o -name \\*.o -o -name \\*\\~ -o -name \\*.bin -o -name \\*.lbin -o -name \\*.so -o -name \\*.a -o -name \\*.ln -o -name \\*.blg -o -name \\*.bbl -o -name \\*.elc -o -name \\*.lof -o -name \\*.glo -o -name \\*.idx -o -name \\*.lot -o -name \\*.fmt -o -name \\*.tfm -o -name \\*.class -o -name \\*.fas -o -name \\*.lib -o -name \\*.mem -o -name \\*.x86f -o -name \\*.sparcf -o -name \\*.dfsl -o -name \\*.pfsl -o -name \\*.d64fsl -o -name \\*.p64fsl -o -name \\*.lx64fsl -o -name \\*.lx32fsl -o -name \\*.dx64fsl -o -name \\*.dx32fsl -o -name \\*.fx64fsl -o -name \\*.fx32fsl -o -name \\*.sx64fsl -o -name \\*.sx32fsl -o -name \\*.wx64fsl -o -name \\*.wx32fsl -o -name \\*.fasl -o -name \\*.ufsl -o -name \\*.fsl -o -name \\*.dxl -o -name \\*.lo -o -name \\*.la -o -name \\*.gmo -o -name \\*.mo -o -name \\*.toc -o -name \\*.aux -o -name \\*.cp -o -name \\*.fn -o -name \\*.ky -o -name \\*.pg -o -name \\*.tp -o -name \\*.vr -o -name \\*.cps -o -name \\*.fns -o -name \\*.kys -o -name \\*.pgs -o -name \\*.tps -o -name \\*.vrs -o -name \\*.pyc -o -name \\*.pyo \\) -prune -o  -type f \\( -iname \\*.py \\) -exec grep -i -nH --null -e \\\\\\<init_app\\\\\\> \\{\\} +" "find . -type d \\( -path \\*/.tox -o -path \\*/build -o -path \\*/dist -o -path \\*/.cask -o -path \\*/.ipynb_checkpoints -o -path \\*/SCCS -o -path \\*/RCS -o -path \\*/CVS -o -path \\*/MCVS -o -path \\*/.src -o -path \\*/.svn -o -path \\*/.git -o -path \\*/.hg -o -path \\*/.bzr -o -path \\*/_MTN -o -path \\*/_darcs -o -path \\*/\\{arch\\} \\) -prune -o \\! -type d \\( -name .\\#\\* -o -name \\*.beam -o -name \\*.vee -o -name \\*.jam -o -name \\*.hi -o -name \\*.o -o -name \\*\\~ -o -name \\*.bin -o -name \\*.lbin -o -name \\*.so -o -name \\*.a -o -name \\*.ln -o -name \\*.blg -o -name \\*.bbl -o -name \\*.elc -o -name \\*.lof -o -name \\*.glo -o -name \\*.idx -o -name \\*.lot -o -name \\*.fmt -o -name \\*.tfm -o -name \\*.class -o -name \\*.fas -o -name \\*.lib -o -name \\*.mem -o -name \\*.x86f -o -name \\*.sparcf -o -name \\*.dfsl -o -name \\*.pfsl -o -name \\*.d64fsl -o -name \\*.p64fsl -o -name \\*.lx64fsl -o -name \\*.lx32fsl -o -name \\*.dx64fsl -o -name \\*.dx32fsl -o -name \\*.fx64fsl -o -name \\*.fx32fsl -o -name \\*.sx64fsl -o -name \\*.sx32fsl -o -name \\*.wx64fsl -o -name \\*.wx32fsl -o -name \\*.fasl -o -name \\*.ufsl -o -name \\*.fsl -o -name \\*.dxl -o -name \\*.lo -o -name \\*.la -o -name \\*.gmo -o -name \\*.mo -o -name \\*.toc -o -name \\*.aux -o -name \\*.cp -o -name \\*.fn -o -name \\*.ky -o -name \\*.pg -o -name \\*.tp -o -name \\*.vr -o -name \\*.cps -o -name \\*.fns -o -name \\*.kys -o -name \\*.pgs -o -name \\*.tps -o -name \\*.vrs -o -name \\*.pyc -o -name \\*.pyo \\) -prune -o  -type f \\( -iname \\*.py \\) -exec grep -i -nH --null -e \\\\\\<response_obj_msg\\\\\\> \\{\\} +" "find . -type f -exec grep --color -nH --null -e jsonify \\{\\} +" "find . -type f -exec grep --color -nH --null -e render_template \\{\\} +" "find . -type f -exec grep --color -nH --null -e request.method \\{\\} +" "find . -type f -exec grep --color -nH --null -e request \\{\\} +" "find . -type f -exec grep --color -nH --null -e request.method \\{\\} +" "find . -type f -exec grep --color -nH --null -e view_func \\{\\} +" "find . -type f -exec grep --color -nH --null -e request \\{\\} +" "find . -type f -exec grep --color -nH --null -e aes_base64 \\{\\} +" "find . -type f -exec grep --color -nH --null -e encrypt_password \\{\\} +" "find . -type f -exec grep --color -nH --null -e validate_password \\{\\} +" "find . -type f -exec grep --color -nH --null -e encrypt_password \\{\\} +" "find . -type f -exec grep --color -nH --null -e password \\{\\} +" "find . -type f -exec grep --color -nH --null -e csv_file \\{\\} +" "find . -type d \\( -path \\*/.tox -o -path \\*/build -o -path \\*/dist -o -path \\*/.cask -o -path \\*/.ipynb_checkpoints -o -path \\*/SCCS -o -path \\*/RCS -o -path \\*/CVS -o -path \\*/MCVS -o -path \\*/.src -o -path \\*/.svn -o -path \\*/.git -o -path \\*/.hg -o -path \\*/.bzr -o -path \\*/_MTN -o -path \\*/_darcs -o -path \\*/\\{arch\\} \\) -prune -o \\! -type d \\( -name .\\#\\* -o -name \\*.beam -o -name \\*.vee -o -name \\*.jam -o -name \\*.hi -o -name \\*.o -o -name \\*\\~ -o -name \\*.bin -o -name \\*.lbin -o -name \\*.so -o -name \\*.a -o -name \\*.ln -o -name \\*.blg -o -name \\*.bbl -o -name \\*.elc -o -name \\*.lof -o -name \\*.glo -o -name \\*.idx -o -name \\*.lot -o -name \\*.fmt -o -name \\*.tfm -o -name \\*.class -o -name \\*.fas -o -name \\*.lib -o -name \\*.mem -o -name \\*.x86f -o -name \\*.sparcf -o -name \\*.dfsl -o -name \\*.pfsl -o -name \\*.d64fsl -o -name \\*.p64fsl -o -name \\*.lx64fsl -o -name \\*.lx32fsl -o -name \\*.dx64fsl -o -name \\*.dx32fsl -o -name \\*.fx64fsl -o -name \\*.fx32fsl -o -name \\*.sx64fsl -o -name \\*.sx32fsl -o -name \\*.wx64fsl -o -name \\*.wx32fsl -o -name \\*.fasl -o -name \\*.ufsl -o -name \\*.fsl -o -name \\*.dxl -o -name \\*.lo -o -name \\*.la -o -name \\*.gmo -o -name \\*.mo -o -name \\*.toc -o -name \\*.aux -o -name \\*.cp -o -name \\*.fn -o -name \\*.ky -o -name \\*.pg -o -name \\*.tp -o -name \\*.vr -o -name \\*.cps -o -name \\*.fns -o -name \\*.kys -o -name \\*.pgs -o -name \\*.tps -o -name \\*.vrs -o -name \\*.pyc -o -name \\*.pyo \\) -prune -o  -type f \\( -iname \\*.py \\) -exec grep -i -nH --null -e \\\\\\<csv_file\\\\\\> \\{\\} +" "find . -type f -exec grep --color -nH --null -e find_element \\{\\} +" "find . -type d \\( -path \\*/.tox -o -path \\*/build -o -path \\*/dist -o -path \\*/.cask -o -path \\*/.ipynb_checkpoints -o -path \\*/SCCS -o -path \\*/RCS -o -path \\*/CVS -o -path \\*/MCVS -o -path \\*/.src -o -path \\*/.svn -o -path \\*/.git -o -path \\*/.hg -o -path \\*/.bzr -o -path \\*/_MTN -o -path \\*/_darcs -o -path \\*/\\{arch\\} \\) -prune -o \\! -type d \\( -name .\\#\\* -o -name \\*.beam -o -name \\*.vee -o -name \\*.jam -o -name \\*.hi -o -name \\*.o -o -name \\*\\~ -o -name \\*.bin -o -name \\*.lbin -o -name \\*.so -o -name \\*.a -o -name \\*.ln -o -name \\*.blg -o -name \\*.bbl -o -name \\*.elc -o -name \\*.lof -o -name \\*.glo -o -name \\*.idx -o -name \\*.lot -o -name \\*.fmt -o -name \\*.tfm -o -name \\*.class -o -name \\*.fas -o -name \\*.lib -o -name \\*.mem -o -name \\*.x86f -o -name \\*.sparcf -o -name \\*.dfsl -o -name \\*.pfsl -o -name \\*.d64fsl -o -name \\*.p64fsl -o -name \\*.lx64fsl -o -name \\*.lx32fsl -o -name \\*.dx64fsl -o -name \\*.dx32fsl -o -name \\*.fx64fsl -o -name \\*.fx32fsl -o -name \\*.sx64fsl -o -name \\*.sx32fsl -o -name \\*.wx64fsl -o -name \\*.wx32fsl -o -name \\*.fasl -o -name \\*.ufsl -o -name \\*.fsl -o -name \\*.dxl -o -name \\*.lo -o -name \\*.la -o -name \\*.gmo -o -name \\*.mo -o -name \\*.toc -o -name \\*.aux -o -name \\*.cp -o -name \\*.fn -o -name \\*.ky -o -name \\*.pg -o -name \\*.tp -o -name \\*.vr -o -name \\*.cps -o -name \\*.fns -o -name \\*.kys -o -name \\*.pgs -o -name \\*.tps -o -name \\*.vrs -o -name \\*.pyc -o -name \\*.pyo \\) -prune -o  -type f \\( -iname \\*.py \\) -exec grep -i -nH --null -e \\\\\\<find_element_by_css_selector\\\\\\> \\{\\} +" "find . -type f -exec grep --color -nH --null -e barista_query \\{\\} +" "find . -type d \\( -path \\*/.tox -o -path \\*/build -o -path \\*/dist -o -path \\*/.cask -o -path \\*/.ipynb_checkpoints -o -path \\*/SCCS -o -path \\*/RCS -o -path \\*/CVS -o -path \\*/MCVS -o -path \\*/.src -o -path \\*/.svn -o -path \\*/.git -o -path \\*/.hg -o -path \\*/.bzr -o -path \\*/_MTN -o -path \\*/_darcs -o -path \\*/\\{arch\\} \\) -prune -o \\! -type d \\( -name .\\#\\* -o -name \\*.beam -o -name \\*.vee -o -name \\*.jam -o -name \\*.hi -o -name \\*.o -o -name \\*\\~ -o -name \\*.bin -o -name \\*.lbin -o -name \\*.so -o -name \\*.a -o -name \\*.ln -o -name \\*.blg -o -name \\*.bbl -o -name \\*.elc -o -name \\*.lof -o -name \\*.glo -o -name \\*.idx -o -name \\*.lot -o -name \\*.fmt -o -name \\*.tfm -o -name \\*.class -o -name \\*.fas -o -name \\*.lib -o -name \\*.mem -o -name \\*.x86f -o -name \\*.sparcf -o -name \\*.dfsl -o -name \\*.pfsl -o -name \\*.d64fsl -o -name \\*.p64fsl -o -name \\*.lx64fsl -o -name \\*.lx32fsl -o -name \\*.dx64fsl -o -name \\*.dx32fsl -o -name \\*.fx64fsl -o -name \\*.fx32fsl -o -name \\*.sx64fsl -o -name \\*.sx32fsl -o -name \\*.wx64fsl -o -name \\*.wx32fsl -o -name \\*.fasl -o -name \\*.ufsl -o -name \\*.fsl -o -name \\*.dxl -o -name \\*.lo -o -name \\*.la -o -name \\*.gmo -o -name \\*.mo -o -name \\*.toc -o -name \\*.aux -o -name \\*.cp -o -name \\*.fn -o -name \\*.ky -o -name \\*.pg -o -name \\*.tp -o -name \\*.vr -o -name \\*.cps -o -name \\*.fns -o -name \\*.kys -o -name \\*.pgs -o -name \\*.tps -o -name \\*.vrs -o -name \\*.pyc -o -name \\*.pyo \\) -prune -o  -type f \\( -iname \\*.py \\) -exec grep -i -nH --null -e barista_query \\{\\} +"))
+(setq grep-history '("grep --color -nH --null -e response_msg" "grep --color -nH --null -e commit_comment" "grep --color -nH --null -e Print" "grep --color -nH --null -e "))
+(setq ido-buffer-history nil)
+(setq ido-last-directory-list nil)
+(setq ido-work-directory-list nil)
+(setq ido-work-file-list nil)
+(setq ivy-history '("rac" "spa" "sp" "race" "racer" "ana" "anac" "jum" "spacema" "web-mod" "vu" ">" "dracula" "leuven" "ample-zen" "adwaita" "center" "align" "center" "align" "center" "align" "center" "align" "top" "valign" "web-" "init-lo" "table" "html5" "web-m" "top" "valign" "ima" "t" "valign" "+4" "+3" "<form method=\"...\" id=\"...\" action=\"...\"></form>" "emme" "clear" "ali" "link" "text" "alink" "\nalink\nbackground\nbgcolor\nlink\ntext\nvlink" "/" "al" "lin" "tex" "alink" "text" "<html>...</html>" "<html xmlns=\"...\">...</html>" "emm" "content" "<html>...</html>" "emmet-mode" "web" "<html>...</html>" "content" "http-equiv" ":q" "http-equiv" "content" "content" "http-equiv" "content" "http-equiv" "content" "a" "content" "h" "<meta name=\"...\" content=\"...\" />" "left" "clear" "he" "w" "s" "<html>...</html>" "<html xmlns=\"...\">...</html>" "asdfw" "content" "\ncontent\nhttp-equiv\nname\nscheme" "content" "http-equiv" "name" "\ncontent\nhttp-equiv\nname\nscheme" "content" "http-equiv" "content" "http-equiv" "content" "scheme" "content" "http-equiv" "content" "con" "http-equiv" "content"))
+(setq minibuffer-history '("42" "32" "33" "27" "17" "10" "9" "#answerA" "anserC" "answerB" "answerA" "Document" "0" "yes" "http://www.bing.com" "htto://www.baidu.com" "/" "	asdf" "asdf" "title+" "title" "asdf" "adslkf" "adsf" "adfs" "/" "asdf" "adf" "asdf" "adsf" "asdf" "sdf" "asdf" "page-enter" "2-exit.html" "asdf" "images/i.jpg" "images/1.jpg" "‘Ò³‘Ãæ‘µÄ‘¹ý‘¶È‘Ð§‘¹û" "adsf" "adf" "adsf" "asdf" "alsdkfjie" "alsdkfj" "1" "adsf" "asdf" "/" "asdf"))
+(setq org-clock-history nil)
+(setq org-refile-history nil)
+(setq org-tags-history nil)
+(setq query-replace-history '("" "extract_first" "extract_frist"))
+(setq read-expression-history nil)
+(setq regexp-history nil)
+(setq regexp-search-ring '("asdf"))
+(setq register-alist '((48 . "h>‘Îï‘Æ·‘Ãû</th>\n          <th>‘Àà‘ÐÍ</th>\n          <th>‘Áì‘È¡‘ÈË</th>\n          <th>‘Áì‘È¡‘ÈË‘Ëù‘Êô‘²¿‘ÃÅ</th>\n          <th>‘Êý‘Á¿</th>\n        ")))
+(setq search-ring '("init-" "definition" "theme" "thead" "init-loa" "init-lo" "th" "thead" "init-lo" "init-loc" "shell" "<!--" "2-" "init-load" "2-gd" "init-loc"))
+(setq shell-command-history nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "/Users/tony/Desktop/PCCAPI/src/view/daily_sentence_view.py"
+  "daily_sentence_view.py"
+  'python-mode
+  '(eldoc-mode company-mode flymake-mode yas-minor-mode linum-mode ivy-mode elpy-mode highlight-indentation-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode symbol-overlay-mode rainbow-delimiters-mode counsel-mode anzu-mode flycheck-mode racer-mode)
+  2286
+  '(407 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-display-time 23414 34334 857726 0) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring (1419))))
+
+(desktop-create-buffer 208
+  "/Users/tony/.emacs.d/lisp/init-local.el"
+  "init-local.el"
+  'emacs-lisp-mode
+  '(eldoc-mode company-mode yas-minor-mode linum-mode ivy-mode immortal-scratch-mode auto-compile-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode page-break-lines-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-mode bug-reference-prog-mode diff-hl-mode symbol-overlay-mode rainbow-delimiters-mode counsel-mode anzu-mode flycheck-mode highlight-quoted-mode aggressive-indent-mode elisp-slime-nav-mode)
+  3966
+  '(3708 nil)
+  nil
+  nil
+  '((buffer-display-time 23414 34334 857725 0) (buffer-file-coding-system . utf-8-mac) (overwrite-mode))
+  '((mark-ring (3944 3884 3826 3767 3265 3252 62 4027 3214 3175 3027 3005 1 4034 4035 2748))))
+
+(desktop-create-buffer 208
+  nil
+  "view"
+  'dired-mode
+  '(diredfl-mode company-mode yas-minor-mode linum-mode ivy-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode beacon-mode global-auto-revert-mode counsel-mode anzu-mode diff-hl-dired-mode)
+  728
+  '(nil nil)
+  t
+  '("/Users/tony/Desktop/PCCAPI/src/view/")
+  '((buffer-display-time 23414 33646 393308 999000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "src"
+  'dired-mode
+  '(diredfl-mode company-mode yas-minor-mode linum-mode ivy-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode beacon-mode global-auto-revert-mode counsel-mode anzu-mode diff-hl-dired-mode)
+  871
+  '(nil nil)
+  t
+  '("/Users/tony/Desktop/PCCAPI/src/")
+  '((buffer-display-time 23414 33533 891148 799000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "PCCAPI"
+  'dired-mode
+  '(diredfl-mode company-mode yas-minor-mode linum-mode ivy-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode beacon-mode global-auto-revert-mode counsel-mode anzu-mode diff-hl-dired-mode)
+  597
+  '(nil nil)
+  t
+  '("/Users/tony/Desktop/PCCAPI/")
+  '((buffer-display-time 23414 33533 574836 799000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "Desktop"
+  'dired-mode
+  '(diredfl-mode company-mode yas-minor-mode linum-mode ivy-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode beacon-mode global-auto-revert-mode counsel-mode anzu-mode diff-hl-dired-mode)
+  492
+  '(nil nil)
+  t
+  '("/Users/tony/Desktop/")
+  '((buffer-display-time 23414 33531 327281 799000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "Tony"
+  'dired-mode
+  '(diredfl-mode company-mode yas-minor-mode linum-mode ivy-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode beacon-mode global-auto-revert-mode counsel-mode anzu-mode diff-hl-dired-mode)
+  180
+  '(nil nil)
+  t
+  '("/Users/tony/Desktop/Tony/")
+  '((buffer-display-time 23414 33529 320716 799000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "Python"
+  'dired-mode
+  '(diredfl-mode company-mode yas-minor-mode linum-mode ivy-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode beacon-mode global-auto-revert-mode counsel-mode anzu-mode diff-hl-dired-mode)
+  184
+  '(nil nil)
+  t
+  '("/Users/tony/Desktop/Tony/Python/")
+  '((buffer-display-time 23414 33526 951699 799000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/tony/.emacs.d/lisp/init-org.el"
+  "init-org.el"
+  'emacs-lisp-mode
+  '(eldoc-mode company-mode yas-minor-mode linum-mode ivy-mode immortal-scratch-mode auto-compile-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode page-break-lines-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-mode bug-reference-prog-mode diff-hl-mode symbol-overlay-mode rainbow-delimiters-mode counsel-mode anzu-mode flycheck-mode highlight-quoted-mode aggressive-indent-mode elisp-slime-nav-mode)
+  1
+  '(13878 nil)
+  nil
+  nil
+  '((buffer-display-time 23414 33518 310710 799000) (buffer-file-coding-system . prefer-utf-8-unix))
+  '((mark-ring (329))))
+
+(desktop-create-buffer 208
+  "/Users/tony/.emacs.d/lisp/init-themes.el"
+  "init-themes.el"
+  'emacs-lisp-mode
+  '(eldoc-mode company-mode yas-minor-mode linum-mode ivy-mode immortal-scratch-mode auto-compile-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode page-break-lines-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-mode bug-reference-prog-mode diff-hl-mode symbol-overlay-mode rainbow-delimiters-mode counsel-mode anzu-mode flycheck-mode highlight-quoted-mode aggressive-indent-mode elisp-slime-nav-mode)
+  1165
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 23414 33299 367802 793000) (buffer-file-coding-system . prefer-utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/tony/.emacs.d/init.el"
+  "init.el"
+  'emacs-lisp-mode
+  '(eldoc-mode company-mode yas-minor-mode linum-mode ivy-mode immortal-scratch-mode auto-compile-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode page-break-lines-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-mode bug-reference-prog-mode diff-hl-mode symbol-overlay-mode rainbow-delimiters-mode counsel-mode anzu-mode flycheck-mode highlight-quoted-mode aggressive-indent-mode elisp-slime-nav-mode)
+  2338
+  '(3256 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-display-time 23414 33223 835374 793000) (buffer-file-coding-system . utf-8-mac) (overwrite-mode))
+  '((mark-ring (3147 1 3252 1590 1636 1597 56 2092 2393 5053 3190))))
+
+(desktop-create-buffer 208
+  "/Users/tony/.emacs.d/elpa-26.1/elpy-20180707.1413/elpy.el"
+  "elpy.el"
+  'emacs-lisp-mode
+  '(eldoc-mode company-mode yas-minor-mode linum-mode ivy-mode immortal-scratch-mode auto-compile-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode page-break-lines-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-mode bug-reference-prog-mode diff-hl-mode symbol-overlay-mode rainbow-delimiters-mode counsel-mode anzu-mode flycheck-mode highlight-quoted-mode aggressive-indent-mode elisp-slime-nav-mode)
+  122931
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-display-time 23414 32705 731960 337000) (buffer-file-coding-system . prefer-utf-8-unix) (overwrite-mode))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Applications/Emacs.app/Contents/Resources/lisp/subr.el.gz"
+  "subr.el.gz"
+  'emacs-lisp-mode
+  '(eldoc-mode company-mode yas-minor-mode linum-mode ivy-mode immortal-scratch-mode auto-compile-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode page-break-lines-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-mode bug-reference-prog-mode diff-hl-mode symbol-overlay-mode rainbow-delimiters-mode counsel-mode anzu-mode flycheck-mode highlight-quoted-mode aggressive-indent-mode elisp-slime-nav-mode view-mode)
+  12040
+  '(nil nil)
+  t
+  nil
+  '((buffer-display-time 23414 32636 220173 936000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Applications/Emacs.app/Contents/Resources/lisp/simple.el.gz"
+  "simple.el.gz"
+  'emacs-lisp-mode
+  '(eldoc-mode company-mode yas-minor-mode linum-mode ivy-mode immortal-scratch-mode auto-compile-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode page-break-lines-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-mode bug-reference-prog-mode diff-hl-mode symbol-overlay-mode rainbow-delimiters-mode counsel-mode anzu-mode flycheck-mode highlight-quoted-mode aggressive-indent-mode elisp-slime-nav-mode view-mode)
+  73274
+  '(nil nil)
+  t
+  nil
+  '((buffer-display-time 23414 32634 655513 936000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Applications/Emacs.app/Contents/Resources/lisp/progmodes/xref.el.gz"
+  "xref.el.gz"
+  'emacs-lisp-mode
+  '(eldoc-mode company-mode yas-minor-mode linum-mode ivy-mode immortal-scratch-mode auto-compile-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode page-break-lines-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-mode bug-reference-prog-mode diff-hl-mode symbol-overlay-mode rainbow-delimiters-mode counsel-mode anzu-mode flycheck-mode highlight-quoted-mode aggressive-indent-mode elisp-slime-nav-mode view-mode)
+  31631
+  '(nil nil)
+  t
+  nil
+  '((buffer-display-time 23414 32628 746319 936000) (buffer-file-coding-system . prefer-utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/tony/Desktop/Tony/go/array.go"
+  "array.go"
+  'go-mode
+  '(eldoc-mode company-mode flymake-mode yas-minor-mode linum-mode ivy-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode symbol-overlay-mode rainbow-delimiters-mode counsel-mode anzu-mode flycheck-mode)
+  468
+  '(349 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-display-time 23414 32573 922262 936000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring (500 442 442 404 468))))
+
+(desktop-create-buffer 208
+  "/Users/tony/Desktop/Tony/go/defer.go"
+  "defer.go"
+  'go-mode
+  '(eldoc-mode company-mode flymake-mode yas-minor-mode linum-mode ivy-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode symbol-overlay-mode rainbow-delimiters-mode counsel-mode anzu-mode flycheck-mode)
+  168
+  '(168 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-display-time 23414 32424 669699 936000) (buffer-file-coding-system . undecided-unix) (overwrite-mode))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/tony/Desktop/PCCAPI/src/view/address_view.py"
+  "address_view.py"
+  'python-mode
+  '(eldoc-mode company-mode flymake-mode yas-minor-mode linum-mode ivy-mode elpy-mode highlight-indentation-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode symbol-overlay-mode rainbow-delimiters-mode counsel-mode anzu-mode flycheck-mode outline-minor-mode)
+  1194
+  '(374 nil)
+  nil
+  nil
+  '((tab-width . 4) (indent-tabs-mode) (buffer-display-time 23414 31912 751696 205000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/tony/Desktop/PCCAPI/src/view/coffee_view.py"
+  "coffee_view.py"
+  'python-mode
+  '(auto-fill-mode eldoc-mode company-mode flymake-mode yas-minor-mode linum-mode ivy-mode elpy-mode highlight-indentation-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode symbol-overlay-mode rainbow-delimiters-mode counsel-mode anzu-mode flycheck-mode)
+  1156
+  '(1 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-display-time 23414 31595 28039 976000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/tony/Desktop/adsfwefasdfwae/pages/index/index.wxml"
+  "index.wxml"
+  'web-mode
+  '(company-mode yas-minor-mode linum-mode ivy-mode emmet-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode symbol-overlay-mode rainbow-delimiters-mode counsel-mode anzu-mode flycheck-mode)
+  615
+  '(1704 nil)
+  nil
+  nil
+  '((buffer-display-time 23414 31493 638240 976000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring (1 1271 70 948 1699 626 624 615))))
+
+(desktop-create-buffer 208
+  "/Users/tony/Desktop/adsfwefasdfwae/app.wxss"
+  "app.wxss"
+  'web-mode
+  '(company-mode yas-minor-mode linum-mode ivy-mode emmet-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode symbol-overlay-mode rainbow-delimiters-mode counsel-mode anzu-mode flycheck-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 23414 31399 973984 422000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/tony/Desktop/Tony/HTML5/div/div1.html"
+  "div1.html"
+  'web-mode
+  '(company-mode yas-minor-mode linum-mode ivy-mode emmet-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode symbol-overlay-mode rainbow-delimiters-mode counsel-mode anzu-mode flycheck-mode)
+  452
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 23414 31384 660007 422000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/tony/Desktop/Tony/Python/FirstTestAppDemo/app.py"
+  "app.py"
+  'python-mode
+  '(eldoc-mode company-mode flymake-mode yas-minor-mode linum-mode ivy-mode elpy-mode highlight-indentation-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode symbol-overlay-mode rainbow-delimiters-mode counsel-mode anzu-mode flycheck-mode)
+  60
+  '(144 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-display-time 23414 31333 848677 422000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring (145 145 145 145 145 145))))
+
+(desktop-create-buffer 208
+  "/Users/tony/Desktop/Tony/HTML5/four_chapter/list2.html"
+  "list2.html"
+  'web-mode
+  '(company-mode yas-minor-mode linum-mode ivy-mode emmet-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode symbol-overlay-mode rainbow-delimiters-mode counsel-mode anzu-mode flycheck-mode)
+  487
+  '(492 nil)
+  nil
+  nil
+  '((buffer-display-time 23414 30882 525103 703000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring (487 492 486 526))))
+
+(desktop-create-buffer 208
+  "/Users/tony/.emacs.d/lisp/init-lisp.el"
+  "init-lisp.el"
+  'emacs-lisp-mode
+  '(eldoc-mode company-mode yas-minor-mode linum-mode ivy-mode immortal-scratch-mode auto-compile-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode page-break-lines-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-mode bug-reference-prog-mode diff-hl-mode symbol-overlay-mode rainbow-delimiters-mode counsel-mode anzu-mode flycheck-mode highlight-quoted-mode aggressive-indent-mode elisp-slime-nav-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 23414 31293 736155 422000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/tony/.emacs.d/lisp/init-elpa.el"
+  "init-elpa.el"
+  'emacs-lisp-mode
+  '(eldoc-mode company-mode yas-minor-mode linum-mode ivy-mode immortal-scratch-mode auto-compile-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode page-break-lines-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-mode bug-reference-prog-mode diff-hl-mode symbol-overlay-mode rainbow-delimiters-mode counsel-mode anzu-mode flycheck-mode highlight-quoted-mode aggressive-indent-mode elisp-slime-nav-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 23414 31294 807329 422000) (buffer-file-coding-system . prefer-utf-8-unix) (overwrite-mode))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/tony/Desktop/Tony/Python/FirstTestAppDemo/__init__.py"
+  "__init__.py"
+  'python-mode
+  '(eldoc-mode company-mode flymake-mode yas-minor-mode linum-mode ivy-mode elpy-mode highlight-indentation-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode symbol-overlay-mode rainbow-delimiters-mode counsel-mode anzu-mode flycheck-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-display-time 23414 31295 831219 422000) (overwrite-mode))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/tony/Desktop/Tony/Python/python-getting-started/tomatotodo/app.py"
+  "app.py"
+  'python-mode
+  '(eldoc-mode company-mode flymake-mode yas-minor-mode linum-mode ivy-mode elpy-mode highlight-indentation-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode symbol-overlay-mode rainbow-delimiters-mode counsel-mode anzu-mode flycheck-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-display-time 23414 31297 199960 422000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/tony/Desktop/Tony/Python/python-getting-started/tomatotodo/cloud.py"
+  "cloud.py"
+  'python-mode
+  '(eldoc-mode company-mode flymake-mode yas-minor-mode linum-mode ivy-mode elpy-mode highlight-indentation-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode symbol-overlay-mode rainbow-delimiters-mode counsel-mode anzu-mode flycheck-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-display-time 23414 31298 563915 422000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/tony/Desktop/Tony/HTML5/action/form1.html"
+  "form1.html"
+  'web-mode
+  '(company-mode yas-minor-mode linum-mode ivy-mode emmet-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode symbol-overlay-mode rainbow-delimiters-mode counsel-mode anzu-mode flycheck-mode)
+  295
+  '(180 nil)
+  nil
+  nil
+  '((buffer-display-time 23414 30464 99610 199000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/tony/Desktop/Tony/Python/flask-tutorial/flaskr/db.py"
+  "db.py"
+  'python-mode
+  '(eldoc-mode company-mode flymake-mode yas-minor-mode linum-mode ivy-mode elpy-mode highlight-indentation-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode symbol-overlay-mode rainbow-delimiters-mode counsel-mode anzu-mode flycheck-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-display-time 23414 30486 83907 703000) (buffer-file-coding-system . undecided-mac) (overwrite-mode))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/tony/Desktop/Tony/Python/python-getting-started/.DS_Store"
+  ".DS_Store"
+  'fundamental-mode
+  '(company-mode yas-minor-mode linum-mode ivy-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode undo-tree-mode beacon-mode global-auto-revert-mode counsel-mode anzu-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 23414 30487 26837 703000) (buffer-file-coding-system . no-conversion))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/tony/Desktop/Tony/Python/python-getting-started/tomatotodo/views/todos.py"
+  "todos.py"
+  'python-mode
+  '(eldoc-mode company-mode flymake-mode yas-minor-mode linum-mode ivy-mode elpy-mode highlight-indentation-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode symbol-overlay-mode rainbow-delimiters-mode counsel-mode anzu-mode flycheck-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-display-time 23414 30488 947269 703000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/usr/local/go/src/fmt/print.go"
+  "print.go"
+  'fundamental-mode
+  '(company-mode yas-minor-mode linum-mode ivy-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode undo-tree-mode beacon-mode global-auto-revert-mode counsel-mode anzu-mode)
+  1
+  '(nil nil)
+  t
+  nil
+  '((buffer-display-time 23414 30491 397071 703000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/tony/Desktop/Tony/Python/flask-tutorial/htmlcov/flaskr_auth_py.html"
+  "flaskr_auth_py.html"
+  'mhtml-mode
+  '(company-mode yas-minor-mode linum-mode ivy-mode emmet-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode symbol-overlay-mode rainbow-delimiters-mode counsel-mode anzu-mode flycheck-mode tagedit-mode rainbow-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 23414 30533 439733 703000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/tony/Desktop/Tony/HTML5/OneHTML.html"
+  "OneHTML.html"
+  'web-mode
+  '(company-mode yas-minor-mode linum-mode ivy-mode emmet-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode symbol-overlay-mode rainbow-delimiters-mode counsel-mode anzu-mode flycheck-mode)
+  128
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 23414 30194 759257 80000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/tony/Desktop/Tony/HTML5/2-gd.html"
+  "2-gd.html"
+  'mhtml-mode
+  '(company-mode yas-minor-mode linum-mode ivy-mode emmet-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode symbol-overlay-mode rainbow-delimiters-mode counsel-mode anzu-mode flycheck-mode tagedit-mode rainbow-mode)
+  302
+  '(1 nil)
+  nil
+  nil
+  '((buffer-display-time 23414 30134 452214 80000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring (302 53 302 302 221 283 283 270 270 222 222 203 203 157 157 302))))
+
+(desktop-create-buffer 208
+  "/Users/tony/Desktop/adsfwefasdfwae/pages/index/index.json"
+  "index.json"
+  'json-mode
+  '(inferior-js-keys-mode company-mode yas-minor-mode linum-mode ivy-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode symbol-overlay-mode rainbow-delimiters-mode counsel-mode anzu-mode flycheck-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 23414 29882 547964 997000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/tony/Desktop/adsfwefasdfwae/utils/util.js"
+  "util.js"
+  'js2-mode
+  '(inferior-js-keys-mode company-mode yas-minor-mode linum-mode ivy-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode symbol-overlay-mode rainbow-delimiters-mode counsel-mode anzu-mode flycheck-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 23413 57118 359239 790000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/tony/Desktop/adsfwefasdfwae/app.json"
+  "app.json"
+  'json-mode
+  '(inferior-js-keys-mode company-mode yas-minor-mode linum-mode ivy-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode symbol-overlay-mode rainbow-delimiters-mode counsel-mode anzu-mode flycheck-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 23413 57116 177747 790000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "action"
+  'dired-mode
+  '(diredfl-mode company-mode yas-minor-mode linum-mode ivy-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode beacon-mode global-auto-revert-mode counsel-mode anzu-mode diff-hl-dired-mode)
+  1
+  '(nil nil)
+  t
+  '("/Users/tony/Desktop/Tony/HTML5/action/")
+  '((buffer-display-time 23413 57108 422047 790000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "HTML5"
+  'dired-mode
+  '(diredfl-mode company-mode yas-minor-mode linum-mode ivy-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode beacon-mode global-auto-revert-mode counsel-mode anzu-mode diff-hl-dired-mode)
+  654
+  '(1 nil)
+  t
+  '("/Users/tony/Desktop/Tony/HTML5/")
+  '((buffer-display-time 23413 36185 417944 49000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "div"
+  'dired-mode
+  '(diredfl-mode company-mode yas-minor-mode linum-mode ivy-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode beacon-mode global-auto-revert-mode counsel-mode anzu-mode diff-hl-dired-mode)
+  185
+  '(nil nil)
+  t
+  '("/Users/tony/Desktop/Tony/HTML5/div/")
+  '((buffer-display-time 23413 36185 797289 49000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/usr/local/lib/python2.7/site-packages/werkzeug/security.py"
+  "security.py"
+  'python-mode
+  '(eldoc-mode company-mode flymake-mode yas-minor-mode linum-mode ivy-mode elpy-mode highlight-indentation-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode symbol-overlay-mode rainbow-delimiters-mode counsel-mode anzu-mode flycheck-mode)
+  1
+  '(nil nil)
+  t
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-display-time 23413 36148 858506 49000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/tony/Desktop/Tony/HTML5/div/div2.html"
+  "div2.html"
+  'mhtml-mode
+  '(company-mode yas-minor-mode linum-mode ivy-mode emmet-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode symbol-overlay-mode rainbow-delimiters-mode counsel-mode anzu-mode flycheck-mode tagedit-mode rainbow-mode)
+  528
+  '(300 nil)
+  nil
+  nil
+  '((buffer-display-time 23413 35902 117970 612000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring (1))))
+
+(desktop-create-buffer 208
+  nil
+  "table"
+  'dired-mode
+  '(diredfl-mode company-mode yas-minor-mode linum-mode ivy-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode beacon-mode global-auto-revert-mode counsel-mode anzu-mode diff-hl-dired-mode)
+  190
+  '(nil nil)
+  t
+  '("/Users/tony/Desktop/Tony/HTML5/table/")
+  '((buffer-display-time 23413 22853 808962 374000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/tony/Desktop/Tony/HTML5/table/nested.html"
+  "nested.html"
+  'mhtml-mode
+  '(company-mode yas-minor-mode linum-mode ivy-mode emmet-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode symbol-overlay-mode rainbow-delimiters-mode counsel-mode anzu-mode flycheck-mode tagedit-mode rainbow-mode)
+  1620
+  '(422 nil)
+  nil
+  nil
+  '((buffer-display-time 23413 22849 714126 374000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring (1430 313 845 1020 795 795 825 1180))))
+
+(desktop-create-buffer 208
+  "/Users/tony/Desktop/Tony/HTML5/table/tbody.html"
+  "tbody.html"
+  'mhtml-mode
+  '(company-mode yas-minor-mode linum-mode ivy-mode emmet-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode symbol-overlay-mode rainbow-delimiters-mode counsel-mode anzu-mode flycheck-mode tagedit-mode rainbow-mode)
+  1058
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 23413 13310 286879 374000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/tony/Desktop/Tony/HTML5/table/thead.html"
+  "thead.html"
+  'mhtml-mode
+  '(company-mode yas-minor-mode linum-mode ivy-mode emmet-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode symbol-overlay-mode rainbow-delimiters-mode counsel-mode anzu-mode flycheck-mode tagedit-mode rainbow-mode)
+  361
+  '(306 nil)
+  nil
+  nil
+  '((buffer-display-time 23413 12842 438535 374000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring (17 841 552 810 625 33 225 388 410 70 471 361 410 450 512 361))))
+
+(desktop-create-buffer 208
+  "/Users/tony/Desktop/Tony/HTML5/table/table_rowspan.html"
+  "table_rowspan.html"
+  'mhtml-mode
+  '(company-mode yas-minor-mode linum-mode ivy-mode emmet-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode symbol-overlay-mode rainbow-delimiters-mode counsel-mode anzu-mode flycheck-mode tagedit-mode rainbow-mode)
+  349
+  '(438 nil)
+  nil
+  nil
+  '((buffer-display-time 23413 10695 97372 48000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring (254 673 563 349))))
+
+(desktop-create-buffer 208
+  "/Users/tony/.emacs.d/lisp/init-clojure.el"
+  "init-clojure.el"
+  'emacs-lisp-mode
+  '(eldoc-mode company-mode yas-minor-mode linum-mode ivy-mode immortal-scratch-mode auto-compile-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode page-break-lines-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-mode bug-reference-prog-mode diff-hl-mode symbol-overlay-mode rainbow-delimiters-mode counsel-mode anzu-mode flycheck-mode highlight-quoted-mode aggressive-indent-mode elisp-slime-nav-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 23412 61907 723046 118000) (buffer-file-coding-system . prefer-utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "four_chapter"
+  'dired-mode
+  '(diredfl-mode company-mode yas-minor-mode linum-mode ivy-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode beacon-mode global-auto-revert-mode counsel-mode anzu-mode diff-hl-dired-mode)
+  195
+  '(nil nil)
+  t
+  '("/Users/tony/Desktop/Tony/HTML5/four_chapter/")
+  '((buffer-display-time 23412 61465 354802 864000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/tony/Desktop/Tony/HTML5/table/table_colspan.html"
+  "table_colspan.html"
+  'mhtml-mode
+  '(company-mode yas-minor-mode linum-mode ivy-mode emmet-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode symbol-overlay-mode rainbow-delimiters-mode counsel-mode anzu-mode flycheck-mode tagedit-mode rainbow-mode)
+  85
+  '(651 nil)
+  nil
+  nil
+  '((buffer-display-time 23412 58649 537603 864000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring (461 485))))
+
+(desktop-create-buffer 208
+  "/Users/tony/Desktop/Tony/HTML5/table/table1.html"
+  "table1.html"
+  'mhtml-mode
+  '(company-mode yas-minor-mode linum-mode ivy-mode emmet-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode symbol-overlay-mode rainbow-delimiters-mode counsel-mode anzu-mode flycheck-mode tagedit-mode rainbow-mode)
+  261
+  '(760 nil)
+  nil
+  nil
+  '((buffer-display-time 23412 57579 992779 864000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring (875 760))))
+
+(desktop-create-buffer 208
+  nil
+  "link"
+  'dired-mode
+  '(diredfl-mode company-mode yas-minor-mode linum-mode ivy-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode beacon-mode global-auto-revert-mode counsel-mode anzu-mode diff-hl-dired-mode)
+  188
+  '(nil nil)
+  t
+  '("/Users/tony/Desktop/Tony/HTML5/link/")
+  '((buffer-display-time 23412 55444 482775 601000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/tony/Desktop/Tony/HTML5/link/link1.html"
+  "link1.html"
+  'mhtml-mode
+  '(company-mode yas-minor-mode linum-mode ivy-mode emmet-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode symbol-overlay-mode rainbow-delimiters-mode counsel-mode anzu-mode flycheck-mode tagedit-mode rainbow-mode)
+  16
+  '(293 nil)
+  nil
+  nil
+  '((buffer-display-time 23412 55445 976486 601000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring (260 255 226 145 400 1 16))))
+
+(desktop-create-buffer 208
+  "/Users/tony/Desktop/Tony/HTML5/four_chapter/list3.html"
+  "list3.html"
+  'mhtml-mode
+  '(company-mode yas-minor-mode linum-mode ivy-mode emmet-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode symbol-overlay-mode rainbow-delimiters-mode counsel-mode anzu-mode flycheck-mode tagedit-mode rainbow-mode)
+  296
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 23412 43524 773105 896000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/tony/Desktop/Tony/HTML5/four_chapter/list.html"
+  "list.html"
+  'mhtml-mode
+  '(company-mode yas-minor-mode linum-mode ivy-mode emmet-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode symbol-overlay-mode rainbow-delimiters-mode counsel-mode anzu-mode flycheck-mode tagedit-mode rainbow-mode)
+  88
+  '(281 nil)
+  nil
+  nil
+  '((buffer-display-time 23412 40699 777146 896000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/tony/Desktop/Tony/HTML5/third_chapter/text.html"
+  "text.html"
+  'mhtml-mode
+  '(company-mode yas-minor-mode linum-mode ivy-mode emmet-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode symbol-overlay-mode rainbow-delimiters-mode counsel-mode anzu-mode flycheck-mode tagedit-mode rainbow-mode)
+  506
+  '(343 nil)
+  nil
+  nil
+  '((buffer-display-time 23412 39630 239112 283000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring (525 107 53))))
+
+(desktop-create-buffer 208
+  nil
+  "third_chapter"
+  'dired-mode
+  '(diredfl-mode company-mode yas-minor-mode linum-mode ivy-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode beacon-mode global-auto-revert-mode counsel-mode anzu-mode diff-hl-dired-mode)
+  195
+  '(1 nil)
+  t
+  '("/Users/tony/Desktop/Tony/HTML5/third_chapter/")
+  '((buffer-display-time 23412 36292 965815 270000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/tony/Desktop/Tony/HTML5/slyl.html"
+  "slyl.html"
+  'mhtml-mode
+  '(company-mode yas-minor-mode linum-mode ivy-mode emmet-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode symbol-overlay-mode rainbow-delimiters-mode counsel-mode anzu-mode flycheck-mode tagedit-mode rainbow-mode)
+  558
+  '(1 nil)
+  nil
+  nil
+  '((buffer-display-time 23412 36011 847940 270000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring (1))))
+
+(desktop-create-buffer 208
+  "/Users/tony/Desktop/Tony/HTML5/margin.html"
+  "margin.html"
+  'mhtml-mode
+  '(company-mode yas-minor-mode linum-mode ivy-mode emmet-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode symbol-overlay-mode rainbow-delimiters-mode counsel-mode anzu-mode flycheck-mode tagedit-mode rainbow-mode)
+  167
+  '(1 nil)
+  nil
+  nil
+  '((buffer-display-time 23412 33381 163816 270000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/tony/.emacs.d/elpa-26.1/yasnippet-snippets-20180714.622/snippets/html-mode/link.stylesheet-ie"
+  "link.stylesheet-ie"
+  'snippet-mode
+  '(company-mode yas-minor-mode linum-mode ivy-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode symbol-overlay-mode rainbow-delimiters-mode counsel-mode anzu-mode flycheck-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 23412 33231 445046 270000) (buffer-file-coding-system . undecided-dos))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/tony/.emacs.d/elpa-26.1/yasnippet-snippets-20180714.622/snippets/html-mode/meta.http-equiv"
+  "meta.http-equiv"
+  'snippet-mode
+  '(company-mode yas-minor-mode linum-mode ivy-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode symbol-overlay-mode rainbow-delimiters-mode counsel-mode anzu-mode flycheck-mode)
+  71
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 23412 32987 482569 270000) (buffer-file-coding-system . undecided-dos))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "text"
+  'dired-mode
+  '(diredfl-mode company-mode yas-minor-mode linum-mode ivy-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode beacon-mode global-auto-revert-mode counsel-mode anzu-mode diff-hl-dired-mode)
+  186
+  '(nil nil)
+  t
+  '("/Users/tony/Desktop/Tony/HTML5/text/")
+  '((buffer-display-time 23412 32778 370222 270000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/tony/Desktop/Tony/HTML5/text/text1.html"
+  "text1.html"
+  'mhtml-mode
+  '(company-mode yas-minor-mode linum-mode ivy-mode emmet-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode symbol-overlay-mode rainbow-delimiters-mode counsel-mode anzu-mode flycheck-mode tagedit-mode rainbow-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 23412 32781 157171 270000) (buffer-file-coding-system . utf-8-unix) (fill-column . 0))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/tony/Desktop/Tony/HTML5/2-exit.html"
+  "2-exit.html"
+  'mhtml-mode
+  '(company-mode yas-minor-mode linum-mode ivy-mode emmet-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode symbol-overlay-mode rainbow-delimiters-mode counsel-mode anzu-mode flycheck-mode tagedit-mode rainbow-mode)
+  367
+  '(367 nil)
+  nil
+  nil
+  '((buffer-display-time 23412 32758 109833 270000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/tony/Desktop/Tony/HTML5/base.html"
+  "base.html"
+  'mhtml-mode
+  '(company-mode yas-minor-mode linum-mode ivy-mode emmet-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode symbol-overlay-mode rainbow-delimiters-mode counsel-mode anzu-mode flycheck-mode tagedit-mode rainbow-mode)
+  232
+  '(232 nil)
+  nil
+  nil
+  '((buffer-display-time 23412 32721 774242 270000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/tony/Desktop/Tony/HTML5/top.html"
+  "top.html"
+  'mhtml-mode
+  '(company-mode yas-minor-mode linum-mode ivy-mode emmet-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode symbol-overlay-mode rainbow-delimiters-mode counsel-mode anzu-mode flycheck-mode tagedit-mode rainbow-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 23412 32696 74614 270000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/tony/.emacs.d/elpa-26.1/yasnippet-snippets-20180714.622/snippets/html-mode/html"
+  "html"
+  'snippet-mode
+  '(company-mode yas-minor-mode linum-mode ivy-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode symbol-overlay-mode rainbow-delimiters-mode counsel-mode anzu-mode flycheck-mode)
+  100
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 23412 30933 10936 211000) (buffer-file-coding-system . undecided-dos))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  ".emacs.d"
+  'dired-mode
+  '(diredfl-mode company-mode yas-minor-mode linum-mode ivy-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode beacon-mode global-auto-revert-mode counsel-mode anzu-mode diff-hl-dired-mode)
+  1
+  '(nil nil)
+  t
+  '("/Users/tony/.emacs.d/")
+  '((buffer-display-time 23412 30286 754167 523000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/tony/.emacs.d/elpa-26.1/flycheck-20180720.247/flycheck.el"
+  "flycheck.el"
+  'emacs-lisp-mode
+  '(eldoc-mode company-mode yas-minor-mode linum-mode ivy-mode immortal-scratch-mode auto-compile-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode page-break-lines-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-mode bug-reference-prog-mode diff-hl-mode symbol-overlay-mode rainbow-delimiters-mode counsel-mode anzu-mode flycheck-mode highlight-quoted-mode aggressive-indent-mode elisp-slime-nav-mode)
+  96395
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-display-time 23412 30249 896517 523000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/tony/Desktop/Tony/Python/flask-tutorial/flaskr/auth.py"
+  "auth.py"
+  'python-mode
+  '(eldoc-mode company-mode flymake-mode yas-minor-mode linum-mode ivy-mode elpy-mode highlight-indentation-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode symbol-overlay-mode rainbow-delimiters-mode counsel-mode anzu-mode flycheck-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-display-time 23412 30134 91888 523000) (buffer-file-coding-system . utf-8-mac) (overwrite-mode))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/tony/Desktop/Tony/HTML5/meta.html"
+  "meta.html"
+  'mhtml-mode
+  '(company-mode yas-minor-mode linum-mode ivy-mode emmet-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode symbol-overlay-mode rainbow-delimiters-mode counsel-mode anzu-mode flycheck-mode tagedit-mode rainbow-mode)
+  194
+  '(253 nil)
+  nil
+  nil
+  '((buffer-display-time 23412 24440 138933 962000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring (194 1 7 94 290 252 291 263 291 253))))
+
+(desktop-create-buffer 208
+  "/Users/tony/Desktop/Tony/HTML5/image.html"
+  "image.html"
+  'mhtml-mode
+  '(company-mode yas-minor-mode linum-mode ivy-mode emmet-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode symbol-overlay-mode rainbow-delimiters-mode counsel-mode anzu-mode flycheck-mode tagedit-mode rainbow-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 23412 21097 393622 962000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/tony/Desktop/Tony/HTML5/image1.html"
+  "image1.html"
+  'mhtml-mode
+  '(company-mode yas-minor-mode linum-mode ivy-mode emmet-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode symbol-overlay-mode rainbow-delimiters-mode counsel-mode anzu-mode flycheck-mode tagedit-mode rainbow-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 23412 20987 572355 962000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/tony/Desktop/Tony/HTML5/image4.html"
+  "image4.html"
+  'mhtml-mode
+  '(company-mode yas-minor-mode linum-mode ivy-mode emmet-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode symbol-overlay-mode rainbow-delimiters-mode counsel-mode anzu-mode flycheck-mode tagedit-mode rainbow-mode)
+  181
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 23412 20509 662459 962000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/tony/Desktop/Tony/HTML5/test.html"
+  "test.html"
+  'mhtml-mode
+  '(company-mode yas-minor-mode linum-mode ivy-mode emmet-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode symbol-overlay-mode rainbow-delimiters-mode counsel-mode anzu-mode flycheck-mode tagedit-mode rainbow-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 23412 18752 375284 962000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/tony/Desktop/Tony/HTML5/refresh.html"
+  "refresh.html"
+  'mhtml-mode
+  '(company-mode yas-minor-mode linum-mode ivy-mode emmet-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode symbol-overlay-mode rainbow-delimiters-mode counsel-mode anzu-mode flycheck-mode tagedit-mode rainbow-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 23412 18624 756148 962000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "*eww*"
+  'eww-mode
+  '(company-mode yas-minor-mode linum-mode ivy-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode guide-key-mode hes-mode whole-line-or-region-local-mode undo-tree-mode beacon-mode global-auto-revert-mode counsel-mode anzu-mode)
+  1
+  '(nil nil)
+  t
+  '(:history ((:title "‘±³‘¾°‘Í¼‘Æ¬" :url "file:///Users/tony/Desktop/Tony/HTML5/image4.html")))
+  '((show-trailing-whitespace) (buffer-display-time 23412 18553 886108 962000) (buffer-file-coding-system . utf-8-unix) (truncate-lines . t) (eww-history-position . 0))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "images"
+  'dired-mode
+  '(diredfl-mode company-mode yas-minor-mode linum-mode ivy-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode beacon-mode global-auto-revert-mode counsel-mode anzu-mode diff-hl-dired-mode)
+  196
+  '(nil nil)
+  t
+  '("/Users/tony/Desktop/Tony/HTML5/images/")
+  '((buffer-display-time 23412 18525 541064 962000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/tony/Desktop/Tony/HTML5/images/1.jpg"
+  "1.jpg"
+  'fundamental-mode
+  '(company-mode yas-minor-mode linum-mode ivy-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode undo-tree-mode beacon-mode global-auto-revert-mode counsel-mode anzu-mode image-minor-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 23412 18535 857282 962000) (buffer-file-coding-system . no-conversion) (truncate-lines . t))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "RN"
+  'dired-mode
+  '(diredfl-mode company-mode yas-minor-mode linum-mode ivy-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode beacon-mode global-auto-revert-mode counsel-mode anzu-mode diff-hl-dired-mode)
+  180
+  '(nil nil)
+  t
+  '("/Users/tony/Desktop/Tony/RN/")
+  '((buffer-display-time 23412 18505 540595 962000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "AwesomeProject"
+  'dired-mode
+  '(diredfl-mode company-mode yas-minor-mode linum-mode ivy-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode beacon-mode global-auto-revert-mode counsel-mode anzu-mode diff-hl-dired-mode)
+  203
+  '(nil nil)
+  t
+  '("/Users/tony/Desktop/Tony/RN/AwesomeProject/")
+  '((buffer-display-time 23412 18507 41477 962000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "org"
+  'dired-mode
+  '(diredfl-mode company-mode yas-minor-mode linum-mode ivy-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode beacon-mode global-auto-revert-mode counsel-mode anzu-mode diff-hl-dired-mode)
+  183
+  '(238 nil)
+  t
+  '("/Users/tony/Desktop/Tony/org/")
+  '((buffer-display-time 23411 43810 715819 962000))
+  '((mark-ring (183))))
+
+(desktop-create-buffer 208
+  "/usr/local/Cellar/python@2/2.7.15_1/Frameworks/Python.framework/Versions/2.7/lib/python2.7/functools.py"
+  "functools.py"
+  'python-mode
+  '(eldoc-mode company-mode flymake-mode yas-minor-mode linum-mode ivy-mode elpy-mode highlight-indentation-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode symbol-overlay-mode rainbow-delimiters-mode counsel-mode anzu-mode flycheck-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-display-time 23411 34280 660040 640000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/tony/Desktop/Tony/Python/flask-tutorial/flaskr/__init__.py"
+  "__init__.py"
+  'python-mode
+  '(eldoc-mode company-mode flymake-mode yas-minor-mode linum-mode ivy-mode elpy-mode highlight-indentation-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode symbol-overlay-mode rainbow-delimiters-mode counsel-mode anzu-mode flycheck-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-display-time 23414 34284 882267 0) (buffer-file-coding-system . undecided-mac) (overwrite-mode))
+  '((mark-ring nil)))
+

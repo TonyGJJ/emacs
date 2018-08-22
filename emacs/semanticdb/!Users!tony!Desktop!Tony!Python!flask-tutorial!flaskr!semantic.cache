@@ -1,0 +1,35 @@
+;; Object semanticdb-project-database-file
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "semanticdb-project-database-file"
+  :tables
+  (list
+    (semanticdb-table "semanticdb-table"
+      :major-mode python-mode
+      :tags 
+        '( ("functools" include nil nil [18 34])
+            ("" code nil nil [54 135])
+            ("werkzeug.security" include nil nil [136 209])
+            ("flaskr.db" include nil nil [211 239])
+            ("bp" variable nil nil [242 294])
+            ("" code nil nil [306 344])
+            ("register" function nil nil [345 1192])
+            ("" code nil nil [1203 1238])
+            ("login" function nil nil [1239 1910])
+            ("load_logged_in_user" function (:decorators 
+              ( ("bp.before_app_request" function (:type "decorator") nil nil))              ) nil [1912 2170])
+            ("" code nil nil [2181 2192])
+            ("logout" function nil nil [2193 2265])
+            ("login_required" function (:arguments 
+              ( ("view" variable nil (reparse-symbol function_parameters) [2286 2290]))              ) nil [2267 2486]))          
+      :file "auth.py"
+      :pointmax 2486
+      :fsize 2493
+      :lastmodtime '(23390 45154 810534 841000)
+      :unmatched-syntax nil)
+    (semanticdb-table "semanticdb-table"
+      :file "db.py"
+      :fsize 1246
+      :lastmodtime '(23387 52661 904810 644000)))
+  :file "!Users!tony!Desktop!Tony!Python!flask-tutorial!flaskr!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

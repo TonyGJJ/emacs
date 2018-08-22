@@ -1,0 +1,74 @@
+;; Object semanticdb-project-database-file
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "semanticdb-project-database-file"
+  :tables
+  (list
+    (semanticdb-table "semanticdb-table"
+      :major-mode python-mode
+      :tags 
+        '( ("datetime" include nil nil [18 47])
+            ("flask" include nil nil [49 72])
+            ("flask" include nil nil [73 106])
+            ("flask_sockets" include nil nil [107 140])
+            ("views.todos" include nil nil [142 176])
+            ("app" variable nil nil [178 199])
+            ("sockets" variable nil nil [200 222])
+            ("app" code nil nil [231 286])
+            ("" code nil nil [299 304])
+            ("index" function nil nil [305 359])
+            ("" code nil nil [371 380])
+            ("time" function nil nil [381 424])
+            ("" code nil nil [440 449])
+            ("echo_socket" function (:arguments 
+              ( ("ws" variable nil (reparse-symbol function_parameters) [466 468]))              ) nil [450 543]))          
+      :file "app.py"
+      :pointmax 543
+      :fsize 550
+      :lastmodtime '(23393 7229 837087 966000)
+      :unmatched-syntax nil)
+    (semanticdb-table "semanticdb-table"
+      :major-mode python-mode
+      :tags 
+        '( ("gevent" include nil nil [26 51])
+            ("monkey" code nil nil [52 70])
+            ("os" include nil nil [72 81])
+            ("leancloud" include nil nil [83 99])
+            ("app" include nil nil [101 120])
+            ("cloud" include nil nil [121 145])
+            ("APP_ID" variable nil nil [147 186])
+            ("APP_KEY" variable nil nil [187 228])
+            ("MASTER_KEY" variable nil nil [229 280])
+            ("PORT" variable nil nil [281 325])
+            ("leancloud" code nil nil [327 389])
+            ("leancloud" code nil nil [441 472])
+            ("app" variable nil nil [547 569])
+            ("application" variable nil nil [570 587])
+            ("if" code nil nil [590 1160]))          
+      :file "wsgi.py"
+      :pointmax 1160
+      :fsize 1257
+      :lastmodtime '(23391 64368 55373 739000)
+      :unmatched-syntax nil)
+    (semanticdb-table "semanticdb-table"
+      :major-mode python-mode
+      :tags 
+        '( ("leancloud" include nil nil [18 46])
+            ("leancloud" include nil nil [47 84])
+            ("engine" variable nil nil [86 103])
+            ("hello" function
+               (:decorators 
+                  ( ("engine.define" function (:type "decorator") nil nil))                  
+                :arguments 
+                  ( ("params" variable nil (reparse-symbol function_parameters) [131 139]))                  )
+                nil [106 263])
+            ("" code nil nil [284 292])
+            ("before_todo_save" function (:arguments 
+              ( ("todo" variable nil (reparse-symbol function_parameters) [314 318]))              ) nil [293 495]))          
+      :file "cloud.py"
+      :pointmax 495
+      :fsize 506
+      :lastmodtime '(23391 55834 26607 373000)
+      :unmatched-syntax nil))
+  :file "!Users!tony!Desktop!Tony!Python!python-getting-started!tomatotodo!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")
